@@ -183,8 +183,3 @@ console.log("double3(3) :>> ", double3(3));
 Output:
 double3(3) :>>  8
 */
-
-
-(params) => {
-    
-}
